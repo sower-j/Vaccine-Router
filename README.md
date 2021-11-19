@@ -10,4 +10,4 @@ Once a file is selected it will automatically remove columns that are not needed
 
 It will then look at the first cell in a column and use that as a route number and use the zip codes below to assign route numbers. 
 
-This could be made robust, and add automatic stop counts and other information. However, due to lack of interest from the company I have not continued development and continue to use this in its current state as it achieves its main purpose in saving time by not needing to manually look at each zip code and enter route numbers.
+This could be made robust, and add automatic stop counts and other information. However, due to lack of interest from the company I have not continued development. Despite not being addopted as an official company tool I will continue to use this in its current state as it achieves its main purpose in saving time by not needing to manually look at each zip code and enter route numbers.
